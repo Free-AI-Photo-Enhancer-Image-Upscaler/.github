@@ -39,7 +39,7 @@ Using AI Photo Enhancer is as easy as 1-2-3:
 
 Why settle for mediocre photos when you can have extraordinary ones? AI Photo Enhancer is here to revolutionize the way you edit and share your images. Whether you’re looking to restore old memories or create stunning visuals for your next project, this tool has got you covered.
 
-[Try It Now]([#](https://www.imgify.net/ai-photo-enhancer/)) and experience the magic of AI-powered photo enhancement for yourself!
+[Try It Now](https://www.imgify.net/ai-photo-enhancer) and experience the magic of AI-powered photo enhancement for yourself!
 
 ---
 
