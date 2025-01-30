@@ -1,6 +1,6 @@
 # Revolutionize Your Photos with AI Photo Enhancer – Try It Now!
 
-[Try It Now]([#](https://www.imgify.net/ai-photo-enhancer/))
+[Try It Now](https://www.imgify.net/ai-photo-enhancer)
 
 In today’s digital age, where visuals speak louder than words, having high-quality photos is more important than ever. Whether you're a professional photographer, a social media enthusiast, or someone who simply loves capturing memories, the clarity and quality of your images matter. But what if your photos are blurry, pixelated, or just not up to the mark? Enter **AI Photo Enhancer** – the ultimate solution to transform your ordinary photos into stunning masterpieces.
 
