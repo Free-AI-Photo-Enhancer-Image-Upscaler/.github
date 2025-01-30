@@ -1,10 +1,6 @@
 # Revolutionize Your Photos with AI Photo Enhancer – Try It Now!
 
-<p style="text-align: center;">
-  <a href="[#](https://www.imgify.net/ai-photo-enhancer/)" style="font-size: 20px; font-weight: bold; color: white; background: linear-gradient(90deg, #6C63FF, #3F3D56); padding: 15px 30px; border-radius: 50px; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background 0.3s ease;">
-    Try It Now
-  </a>
-</p>
+[Try It Now]([#](https://www.imgify.net/ai-photo-enhancer/))
 
 In today’s digital age, where visuals speak louder than words, having high-quality photos is more important than ever. Whether you're a professional photographer, a social media enthusiast, or someone who simply loves capturing memories, the clarity and quality of your images matter. But what if your photos are blurry, pixelated, or just not up to the mark? Enter **AI Photo Enhancer** – the ultimate solution to transform your ordinary photos into stunning masterpieces.
 
@@ -43,11 +39,7 @@ Using AI Photo Enhancer is as easy as 1-2-3:
 
 Why settle for mediocre photos when you can have extraordinary ones? AI Photo Enhancer is here to revolutionize the way you edit and share your images. Whether you’re looking to restore old memories or create stunning visuals for your next project, this tool has got you covered.
 
-<p style="text-align: center;">
-  <a href="#" style="font-size: 20px; font-weight: bold; color: white; background: linear-gradient(90deg, #6C63FF, #3F3D56); padding: 15px 30px; border-radius: 50px; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background 0.3s ease;">
-    Try It Now
-  </a>
-</p>
+[Try It Now]([#](https://www.imgify.net/ai-photo-enhancer/)) and experience the magic of AI-powered photo enhancement for yourself!
 
 ---
 
